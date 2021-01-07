@@ -1,4 +1,4 @@
-![Image](LOGO.svg)
+![Image](ISOTIPO.svg)
 ## Welcome
 
 You can use the [editor on GitHub](https://github.com/naxitho100/naxitho100.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
